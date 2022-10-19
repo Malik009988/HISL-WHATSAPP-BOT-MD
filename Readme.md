@@ -54,7 +54,7 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Helping to me | Helping to 
 > Click WA logo to Join Support Group 👇
 <br>
 
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/I1uZccqxoqx5sOPrYHsbyc)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GwG8iuZnZ0S3BAPieTEkhL)
 
   <div align="center">
 
