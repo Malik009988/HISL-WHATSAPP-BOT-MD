@@ -50,6 +50,9 @@
   <div align="center">
 
 
+<a href="https://youtu.be/azrf-Y4XuWU"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=rose"></a>
+</p>
+
 > ### Disclaimer
 ----
 
