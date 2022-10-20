@@ -1,7 +1,7 @@
 {
   "name": "DFA MR JOKER-MD BOT ",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/ABHEESHABI/HISL-WHATSAPP-BOT-MD/edit/master/app.json",
+  "repository": "https://github.com/Malik009988/HISL-WHATSAPP-BOT-MD/edit/master/app.json",
   "logo": "https://i.imgur.com/rN6vG0V.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
